@@ -1,0 +1,12 @@
+C:\Users\20795\Desktop\软件实训开发大作业\MVC---FinalProject\TZstore\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\20795\Desktop\软件实训开发大作业\MVC---FinalProject\TZstore\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\20795\Desktop\软件实训开发大作业\MVC---FinalProject\TZstore\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\20795\Desktop\软件实训开发大作业\MVC---FinalProject\TZstore\Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\20795\Desktop\软件实训开发大作业\MVC---FinalProject\TZstore\Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\20795\Desktop\软件实训开发大作业\MVC---FinalProject\TZstore\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\20795\Desktop\软件实训开发大作业\MVC---FinalProject\TZstore\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\20795\Desktop\软件实训开发大作业\MVC---FinalProject\TZstore\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\20795\Desktop\软件实训开发大作业\MVC---FinalProject\TZstore\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\20795\Desktop\软件实训开发大作业\MVC---FinalProject\TZstore\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\20795\Desktop\软件实训开发大作业\MVC---FinalProject\TZstore\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\20795\Desktop\软件实训开发大作业\MVC---FinalProject\TZstore\Service\obj\Debug\netcoreapp3.1\Service.pdb
